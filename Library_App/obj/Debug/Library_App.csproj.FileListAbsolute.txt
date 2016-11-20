@@ -1,0 +1,9 @@
+C:\Users\Hussain\Desktop\Library_App\Library_App\obj\Debug\Library_App.csprojResolveAssemblyReference.cache
+C:\Users\Hussain\Desktop\Library_App\Library_App\obj\Debug\Library_App.Form1.resources
+C:\Users\Hussain\Desktop\Library_App\Library_App\obj\Debug\Library_App.Properties.Resources.resources
+C:\Users\Hussain\Desktop\Library_App\Library_App\obj\Debug\Library_App.csproj.GenerateResource.Cache
+C:\Users\Hussain\Desktop\Library_App\Library_App\bin\Debug\Library_App.exe.config
+C:\Users\Hussain\Desktop\Library_App\Library_App\bin\Debug\Library_App.exe
+C:\Users\Hussain\Desktop\Library_App\Library_App\bin\Debug\Library_App.pdb
+C:\Users\Hussain\Desktop\Library_App\Library_App\obj\Debug\Library_App.exe
+C:\Users\Hussain\Desktop\Library_App\Library_App\obj\Debug\Library_App.pdb
