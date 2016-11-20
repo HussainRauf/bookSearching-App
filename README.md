@@ -1,0 +1,2 @@
+# bookSearching-App
+This windows form application would enable users to lookup for a book from the inventory. It is developed in Visual Studio integrated development environment using C# as a programming language. It is a very simple application and not associated with any data source. Data table is used to preserve the data and search methods are applied to it. Note that there could be better ways to develop this application. Share your views and ideas.
